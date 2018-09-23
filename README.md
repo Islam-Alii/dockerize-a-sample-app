@@ -1,4 +1,4 @@
-# dockerize-a-sample-app
+# Dockerize-a-sample-app
 
 dockerize a sample PHP app Using Docker
 
